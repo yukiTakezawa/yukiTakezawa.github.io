@@ -4,42 +4,23 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+I am a 1st year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Research interests: Machine Learning, Optimal Transport.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
+contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML2021**
 
-## Typography
+## Hornor
+- President's Prize (Kyoto University), 2017
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Education
+- Kyoto University, Graduate School of Imformatics, 2021-Present
+- Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017-2021
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Activity
+- ABU Robocon 2019, best 8
+- NHK Robocon 2019, gold
+- Chopin International Piano Competition in Asia 2016, bronze

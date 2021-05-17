@@ -17,7 +17,7 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 - President's Prize (Kyoto University), 2017
 
 ## Education
-- Kyoto University, Graduate School of Imformatics, 2021-Present
+- Kyoto University, Graduate School of Informatics, 2021-Present
 - Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017-2021
 
 ## Activity

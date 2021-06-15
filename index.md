@@ -14,6 +14,7 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML2021**
 
 ## Honor
+- JSAI Incentive Award (SIG-AGI), 2021
 - President's Prize (Kyoto University), 2019
 
 ## Education

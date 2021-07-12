@@ -14,15 +14,15 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML2021**
 
 ## Research Experiments
-- Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021 - Present
+- Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present
 
 ## Honor
-- JSAI Incentive Award (SIG-AGI), 2021
+- JSAI Incentive Award, 2021
 - President's Prize (Kyoto University), 2019
 
 ## Education
 - Kyoto University, Graduate School of Informatics, 2021 - Present
-- Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017 - 2021
+- Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017-2021
 
 ## Activity
 - ABU Robocon 2019, best 8

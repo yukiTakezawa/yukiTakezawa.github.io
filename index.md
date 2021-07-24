@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Yuki Takezawa.
-I am a 1st year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>.
+I'm Yuki Takezawa, a 1st year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>.
 
 Research interests: Machine Learning, Optimal Transport.
 

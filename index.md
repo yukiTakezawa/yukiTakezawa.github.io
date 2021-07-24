@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Yuki Takezawa
 
 ## About Me
 
@@ -17,11 +18,11 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 - Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present
 
 ## Honor
-- JSAI Incentive Award, 2021
+- The Japanese Society for Artificial Intelligence (JSAI) Incentive Award, 2021
 - President's Prize (Kyoto University), 2019
 
 ## Education
-- Kyoto University, Graduate School of Informatics, 2021 - Present
+- Kyoto University, Graduate School of Informatics, 2021-Present
 - Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017-2021
 
 ## Activity

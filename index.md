@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Yuki Takezawa, a 1st year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>.
+I'm Yuki Takezawa, a 1st year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>, Kyoto University.
 
 Research interests: Machine Learning, Optimal Transport.
 
@@ -16,7 +16,7 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Research Experiments
 - Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present
-- Internship, NTT Comunication Science Laboratory, 2021
+- Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratory</a>, 2021
 
 ## Honor
 - The Japanese Society for Artificial Intelligence (JSAI) Incentive Award, 2021

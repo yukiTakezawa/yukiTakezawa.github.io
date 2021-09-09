@@ -12,7 +12,7 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML2021**
 
 ### Preprint
-1. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada, <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>
+1. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada, <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>, arXiv 2021
 
 ## Research Experiments
 - Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present

@@ -16,7 +16,7 @@ contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Research Experiments
 - Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present
-- Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratory</a>, 2021
+- Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratory</a>, 2021
 
 ## Honor
 - The Japanese Society for Artificial Intelligence (JSAI) Incentive Award, 2021

@@ -6,7 +6,7 @@ I'm Yuki Takezawa, a 1st year master's student at <a href="http://www.ml.ist.i.k
 
 Research interests: Machine Learning, Optimal Transport.
 
-contact: yuki.takezawa at ml.ist.i.kyoto-u.ac.jp 
+contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML2021**

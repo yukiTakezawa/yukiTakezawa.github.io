@@ -7,6 +7,9 @@ I'm Yuki Takezawa, a 1st year master's student at <a href="http://www.ml.ist.i.k
 Research interests: Machine Learning, Optimal Transport.
 
 contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
+
+<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?hl=en&user=eaKQb8IAAAAJl">google scholar</a>
+
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada, <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>, **AISTATS 2022**

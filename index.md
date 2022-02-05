@@ -8,7 +8,7 @@ Research interests: Machine Learning, Optimal Transport.
 
 contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
 
-<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?hl=en&user=eaKQb8IAAAAJl">google scholar</a>
+<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a>
 
 ## Publications
 ### Conference Papers

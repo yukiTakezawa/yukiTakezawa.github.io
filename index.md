@@ -4,7 +4,7 @@ layout: default
 
 I'm Yuki Takezawa, a 2nd year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>, Kyoto University.
 
-Research interests: Machine Learning, Optimal Transport.
+Research interests: Machine Learning, Optimal Transport, Distributed Optimization.
 
 contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
 
@@ -16,7 +16,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 2. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML 2021**
 
 ### Preprint
-1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv
+1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv 2022
 
 ## Research Experiences
 - Research Assistant, Kyoto University, 2021-Present

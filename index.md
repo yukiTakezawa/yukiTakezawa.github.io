@@ -17,6 +17,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ### Preprints
 1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv 2022
+2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
 - Research Assistant, Kyoto University, 2021-Present

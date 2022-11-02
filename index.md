@@ -24,6 +24,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
+- Visiting Research Student, <a href="https://groups.oist.jp/mlds">Okinawa Institute of Science and Technology</a>, 2022-Present
 - Research Assistant, Kyoto University, 2021-Present
 - Research Assistant, <a href="https://riken-yamada.github.io/index.html">RIKEN AIP</a>, 2021-Present
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021

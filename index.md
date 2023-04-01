@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Yuki Takezawa, a 2nd year master's student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>, Kyoto University.
+I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Yamada Laboratory</a>, Kyoto University.
 
 Research interests: Machine Learning, Optimal Transport, Distributed Optimization.
 
@@ -35,8 +35,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - President's Prize (Kyoto University), 2019
 
 ## Education
-- Kyoto University, Graduate School of Informatics, 2021-Present
-- Kyoto University, Undergraduate School of Informatics and Mathematical Science, 2017-2021
+- Kyoto University (Ph.D. course), Graduate School of Informatics, 2023-Present
+- Kyoto University (Master course), Graduate School of Informatics, 2021-2023
+- Kyoto University (Bachelor course), Undergraduate School of Informatics and Mathematical Science, 2017-2021
 
 ## Activity
 - ABU Robocon 2019, best 8

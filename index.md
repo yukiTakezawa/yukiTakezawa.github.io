@@ -30,7 +30,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020
 
-## Honor
+## Honor & Funding
+- JSPS Doctoral Course Research Fellowships (DC1), 2023-Present
 - The Japanese Society for Artificial Intelligence (JSAI) Incentive Award, 2021
 - President's Prize (Kyoto University), 2019
 

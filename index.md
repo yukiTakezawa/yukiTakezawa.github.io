@@ -19,9 +19,10 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 1. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi,  <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>, **Transactions of Machine Learning Research 2022**
 
 ### Preprints
-1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2209.15505">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>, arXiv 2022
-2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv 2022
-3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
+1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada, <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>, arXiv 2023
+3. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada, <a href="https://arxiv.org/abs/2209.15505">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>, arXiv 2022
+4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv 2022
+5. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada, <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
 - Visiting Research Student, <a href="https://groups.oist.jp/mlds">Okinawa Institute of Science and Technology</a>, 2022-Present

@@ -40,7 +40,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Research Experiences
 - Visiting Research Student, <a href="https://groups.oist.jp/mlds">Okinawa Institute of Science and Technology</a>, 2022-Present
-- Research Assistant, Kyoto University, 2021-Present
+- Research Assistant, Kyoto University, 2021-2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, 2021-2023
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020

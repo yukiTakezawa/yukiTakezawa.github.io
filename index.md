@@ -13,14 +13,17 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
-<a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>, **AISTATS 2022**
+<a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
+**AISTATS 2022**
 
 2. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
-<a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>, **ICML 2021**
+<a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
+**ICML 2021**
 
 ### Journal Papers
 1. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
-<a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>, **Transactions of Machine Learning Research 2022**
+<a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
+**Transactions of Machine Learning Research 2022**
 
 ### Preprints
 1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  

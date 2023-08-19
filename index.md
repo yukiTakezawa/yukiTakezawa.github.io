@@ -21,7 +21,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **ICML 2021**
 
 ### Journal Papers
-1. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
+1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+<a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
+**IEEE Transactions on Signal and Information Processing over Networks 2023**
+ 
+2. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
 <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
 **Transactions of Machine Learning Research 2022**
 
@@ -33,9 +37,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2209.15505">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>, arXiv 2022
 
 3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
-<a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>, arXiv 2022
-
-4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

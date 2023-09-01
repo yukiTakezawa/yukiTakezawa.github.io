@@ -22,7 +22,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ### Journal Papers
 1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
-<a href="https://arxiv.org/abs/2205.03779">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
+<a href="https://ieeexplore.ieee.org/document/10230896">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
  
 2. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  

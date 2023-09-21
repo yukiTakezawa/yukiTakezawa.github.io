@@ -21,20 +21,21 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **ICML 2021**
 
 ### Journal Papers
-1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
+<a href="https://openreview.net/forum?id=8koy8QuTZD">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>
+**Transactions of Machine Learning Research 2023**
+
+2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://ieeexplore.ieee.org/document/10230896">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
  
-2. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
+3. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
 <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
 **Transactions of Machine Learning Research 2022**
 
 ### Preprints
 1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>, arXiv 2023
-
-2. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
-<a href="https://arxiv.org/abs/2209.15505">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>, arXiv 2022
 
 3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022

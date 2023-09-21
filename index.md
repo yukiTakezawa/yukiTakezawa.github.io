@@ -22,7 +22,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ### Journal Papers
 1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
-<a href="https://openreview.net/forum?id=8koy8QuTZD">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>
+<a href="https://openreview.net/forum?id=8koy8QuTZD">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a> 
 **Transactions of Machine Learning Research 2023**
 
 2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  

@@ -13,7 +13,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
-<a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>
+<a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**
 
 2. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  

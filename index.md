@@ -12,15 +12,19 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
+1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+<a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>
+**Neural Information Processing Systems (NeurIPS) 2023**
+
+2. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2109.03431">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**
 
-2. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**
 
-3. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**
 
@@ -38,10 +42,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Transactions on Machine Learning Research 2022**
 
 ### Preprints
-1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
-<a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>, arXiv 2023
-
-3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+1. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

@@ -17,7 +17,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Neural Information Processing Systems (NeurIPS) 2023**
 
 2. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
-<a href="https://arxiv.org/abs/2109.03431">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
+<a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**
 
 3. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  

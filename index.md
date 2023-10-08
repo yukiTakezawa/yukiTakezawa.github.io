@@ -12,19 +12,24 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+1.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
+"Large-scale similarity search with Optimal Transport"  
+**Empirical Methods in Natural Language Processing (EMNLP) 2023**
+
+2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**
 
-2. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
+
+3. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**
 
-3. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**
 
-4. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+5. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**
 

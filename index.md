@@ -8,7 +8,7 @@ Research interests: Machine Learning, Optimal Transport, Distributed Optimizatio
 
 contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
 
-<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a> / <a href="https://www.semanticscholar.org/author/Yuki-Takezawa/2059107130">semantic scholar</a>
+<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a> / <a href="https://www.semanticscholar.org/author/Yuki-Takezawa/2059107130">semantic scholar</a> / <a href="https://drive.google.com/file/d/1yvedVea6Sw3sBkuyQS3CCElYp8dDQKL9/view?usp=drive_link">CV</a>
 
 ## Publications
 ### Conference Papers

@@ -47,10 +47,13 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Transactions on Machine Learning Research 2022**
 
 ### Preprints
-1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+1.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+<a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023
+
+2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023
 
-2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

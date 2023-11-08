@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, Kyoto University.
+I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 
 Research interests: Machine Learning, Optimal Transport, Distributed Optimization.
 
@@ -18,8 +18,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
-**Neural Information Processing Systems (NeurIPS) 2023**
-
+**Neural Information Processing Systems (NeurIPS) 2023**  
+[<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>]  
 
 3. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
@@ -29,7 +29,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**
 
-5. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+6. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**
 
@@ -61,7 +61,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Research Experiences
 - Visiting Research Student, <a href="https://groups.oist.jp/mlds">Okinawa Institute of Science and Technology</a>, 2022-Present
-- Research Assistant, Kyoto University, 2021-2023
+- Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, 2021-2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, 2021-2023
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020

@@ -13,7 +13,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
-"Large-scale Similarity Search with Optimal Transport"  
+<a href="https://openreview.net/forum?id=HNfwD7QOaq">"Large-scale Similarity Search with Optimal Transport"</a>  
 **Empirical Methods in Natural Language Processing (EMNLP) 2023**
 
 2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  

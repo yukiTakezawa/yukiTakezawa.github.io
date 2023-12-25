@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img class="profile-picture" src="face.jpg">
+
 I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 
 Research interests: Machine Learning, Optimal Transport, Distributed Optimization.

@@ -21,7 +21,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**  
-[<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>]  
+[<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>] 
 
 3. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  

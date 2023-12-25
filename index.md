@@ -33,7 +33,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 6. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
-**International Conference on Machine Learning (ICML) 2021**
+**International Conference on Machine Learning (ICML) 2021**  
+[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>]  
 
 ### Journal Papers
 1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  

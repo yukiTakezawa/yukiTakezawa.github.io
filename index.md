@@ -30,7 +30,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 4. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
-**International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**
+**International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
+[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>] 
 
 6. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  

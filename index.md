@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="face.jpg">
 
 I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
-I'm also working as a visiting research student at <a href="https://groups.oist.jp/mlds">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>
+I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>
 
 Research interests: Machine Learning, Optimal Transport, Distributed Optimization.
 

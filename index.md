@@ -22,7 +22,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**  
-[<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>] 
+[<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/BaseGraph">code</a>]  
+ 
 
 3. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
@@ -31,12 +32,12 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 4. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
-[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>] 
+[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/FS_TSWB">code</a>]  
 
 6. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**  
-[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>]  
+[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  
 
 ### Journal Papers
 1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
@@ -59,7 +60,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023
 
 3.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
-<a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023
+<a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023  
+[<a href="https://github.com/yukiTakezawa/necessary_and_sufficient_watermark">code</a>]  
+
 
 4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022

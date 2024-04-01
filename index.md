@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-I'm Yuki Takezawa, a 1st year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
+I'm Yuki Takezawa, a 2nd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>
 
 Research interests: Machine Learning, Optimal Transport, Distributed Optimization.
@@ -68,7 +68,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Visiting Research Student, <a href="https://groups.oist.jp/mlds">Okinawa Institute of Science and Technology</a>, 2022-Present
+- Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, 2022-Present
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, 2021-2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, 2021-2023
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021

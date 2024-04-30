@@ -69,10 +69,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, 2022-Present
-- Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, 2021-2023
-- Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, 2021-2023
-- Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021
+- Research Internship, <a href="https://www.sstich.ch/">CISPA</a>, 2024, April - Present
+- Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, 2022, April - Present
+- Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, 2021, April - 2023, March
+- Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, 2021, April -2023, March
+- Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, 2021, August - 2021, September
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020
 
 ## Honor & Funding

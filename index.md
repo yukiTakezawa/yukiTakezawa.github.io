@@ -69,7 +69,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Research Internship, <a href="https://www.sstich.ch/">CISPA</a>, April/2024-Present
+- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, April/2024-Present
 - Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, April/2022-Present
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, April/2021-March/2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, April/2021-March/2023

@@ -92,3 +92,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - ABU Robocon 2019, best 8
 - NHK Robocon 2019, gold
 - Chopin International Piano Competition in Asia 2016, bronze
+
+## Upcoming Trip
+- April/8-July/7, CISPA Helmholtz Center for Information Security (Germany)
+- November/4-November/7, Saitama (Japan) for IBIS 2024 

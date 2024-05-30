@@ -74,11 +74,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, April/2024-Present
-- Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, April/2022-Present
-- Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, April/2021-March/2023
-- Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, April/2021-March/2023
-- Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, August/2021-September/2021
+- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Present
+- Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, Apr./2022-Present
+- Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, Apr./2021-Mar./2023
+- Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Apr./2021-Mar./2023
+- Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, Aug./2021-Sep./2021
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020
 
 ## Honor & Funding
@@ -87,9 +87,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - President's Prize (Kyoto University), 2019
 
 ## Education
-- Kyoto University (Ph.D. course), Graduate School of Informatics, 2023-Present
-- Kyoto University (Master course), Graduate School of Informatics, 2021-2023
-- Kyoto University (Bachelor course), Undergraduate School of Informatics and Mathematical Science, 2017-2021
+- Kyoto University (Ph.D. course), Graduate School of Informatics, Apr./2023-Present
+- Kyoto University (Master course), Graduate School of Informatics, Apr./2021-Mar./2023
+- Kyoto University (Bachelor course), Undergraduate School of Informatics and Mathematical Science, Apr./2017-Mar./2021
 
 ## Activity
 - ABU Robocon 2019, best 8
@@ -97,5 +97,5 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Chopin International Piano Competition in Asia 2016, bronze
 
 ## Upcoming Trip
-- April/8-July/7, CISPA Helmholtz Center for Information Security (Germany)
-- November/4-November/7, Saitama (Japan) for IBIS 2024 
+- Apr./8-Jul./7, CISPA Helmholtz Center for Information Security (Germany)
+- Nov./4-Nov./7, IBIS 2024 (Japan)

@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-I'm Yuki Takezawa, a 2nd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
+I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido';">竹澤祐貴</span>), a 2nd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>.
 
 Research interests: Machine Learning, Optimization, Optimal Transport.

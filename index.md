@@ -92,9 +92,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Kyoto University (Bachelor course), Undergraduate School of Informatics and Mathematical Science, Apr./2017-Mar./2021
 
 ## Activity
-- ABU Robocon 2019, best 8
+- <a href="http://aburobocon2019.mnb.mn/en">ABU Robocon 2019</a>, best 8
 - NHK Robocon 2019, gold
-- Chopin International Piano Competition in Asia 2016, bronze
+- <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
 - Apr./8-Jul./7, CISPA Helmholtz Center for Information Security (Germany)

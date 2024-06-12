@@ -82,9 +82,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020
 
 ## Honor & Funding
-- JSPS Doctoral Course Research Fellowships (DC1), 2023-Present
-- The Japanese Society for Artificial Intelligence (JSAI) Incentive Award, 2021
-- President's Prize (Kyoto University), 2019
+- <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Doctoral Course Research Fellowships (DC1)</a>, 2023-Present
+- <a href="https://www.ai-gakkai.or.jp/en/about/award/">The Japanese Society for Artificial Intelligence (JSAI) Incentive Award</a>, 2021
+- <a href="https://www.kyoto-u.ac.jp/en/about/honors/university-awards/presidents/about-the-kyoto-university-presidents-award">Kyoto University President's Award</a>, 2019
 
 ## Education
 - Kyoto University (Ph.D. course), Graduate School of Informatics, Apr./2023-Present

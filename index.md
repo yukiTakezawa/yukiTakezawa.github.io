@@ -97,6 +97,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Apr./8-Jul./7, CISPA Helmholtz Center for Information Security (Germany)
-- Sept./21-Sept./23, YAML 2024 (Hamamatsu, Japan)
+- Apr./8-Jul./7, CISPA Helmholtz Center for Information Security (Saarland, Germany)
+- Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)
 - Nov./4-Nov./7, IBIS 2024 (Saitama, Japan)

@@ -98,4 +98,5 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Upcoming Trip
 - Apr./8-Jul./7, CISPA Helmholtz Center for Information Security (Germany)
-- Nov./4-Nov./7, IBIS 2024 (Japan)
+- Sept./21-Sept./23, YAML 2024 (Hamamatsu, Japan)
+- Nov./4-Nov./7, IBIS 2024 (Saitama, Japan)

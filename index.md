@@ -74,7 +74,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Present
+- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Jul./2024
 - Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, Apr./2022-Present
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, Apr./2021-Mar./2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Apr./2021-Mar./2023
@@ -97,6 +97,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Apr./8-Jul./6, CISPA Helmholtz Center for Information Security (Saarland, Germany)
-- Jul./8-Jul./11 (TBD), OIST (Okinawa, Japan)
-- Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)
+- Jul./8-Jul./11, OIST (Okinawa, Japan)
+- Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
+- Oct.-Dec. (TBD), CISPA Helmholtz Center for Information Security (Saarland, Germany)
+

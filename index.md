@@ -99,5 +99,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Upcoming Trip
 - Jul./8-Jul./11, OIST (Okinawa, Japan)
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
-- Oct.-Dec. (TBD), CISPA Helmholtz Center for Information Security (Saarland, Germany)
+- Nov./4-Nov./8, IBIS 2024 (Saitama, Japan)  
+- Nov.-Feb. (TBD), CISPA Helmholtz Center for Information Security (Saarland, Germany)
 

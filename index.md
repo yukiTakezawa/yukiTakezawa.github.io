@@ -97,8 +97,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Jul./8-Jul./11, OIST (Okinawa, Japan)
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
 - Nov./4-Nov./7, IBIS 2024 (Saitama, Japan)  
 - Nov.-Feb. (TBD), CISPA Helmholtz Center for Information Security (Saarland, Germany)
-
+- Mar./3-Mar./5 (TBD), <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)

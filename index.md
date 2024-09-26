@@ -15,21 +15,25 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
+1. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
+<a  href="https://arxiv.org/abs/2405.15010">Polyak Meets Parameter-free Clipped Gradient Descent</a>  
+**Neural Information Processing Systems (NeurIPS) 2024**  
+
+2.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
 <a href="https://openreview.net/forum?id=HNfwD7QOaq">"Large-scale Similarity Search with Optimal Transport"</a>  
 **Empirical Methods in Natural Language Processing (EMNLP) 2023**
 
-2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+3.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**  
 [<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/BaseGraph">code</a>]  
  
 
-3. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
+4. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**
 
-4. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+5. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/FS_TSWB">code</a>]  
@@ -53,24 +57,21 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Transactions on Machine Learning Research 2022**
 
 ### Preprints
-1. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
-<a  href="https://arxiv.org/abs/2405.15010">Polyak Meets Parameter-free Clipped Gradient Descent</a>, arXiv 2024
-
-2. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
+1. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2405.14650">PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis</a>, arXiv 2024
 
-3. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
+2. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
 <a href="https://arxiv.org/abs/2310.10143">"An Empirical Study of Simplicial Representation Learning with Wasserstein Distance"</a>, arXiv 2023
 
-4.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+3.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-5.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+4.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023  
 [<a href="https://github.com/yukiTakezawa/necessary_and_sufficient_watermark">code</a>]  
 
-6. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+5. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

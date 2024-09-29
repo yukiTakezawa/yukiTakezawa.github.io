@@ -44,15 +44,19 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  
 
 ### Journal Papers
-1. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
-<a href="https://openreview.net/forum?id=8koy8QuTZD">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>  
+1. Iifan Tyou, Tomoya Murata, Takumi Fukami, <u>Yuki Takezawa</u>, Kenta Niwa  
+<a href="https://openreview.net/forum?id=8koy8QuTZD">"A Localized Primal-Dual Method for Centralized/Decentralized Federated Learning Robust to Data Heterogeneity"</a>  
+**IEEE Transactions on Signal and Information Processing over Networks 2023**
+
+2. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
+<a href="https://ieeexplore.ieee.org/abstract/document/10373878">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>  
 **Transactions on Machine Learning Research 2023**
 
-2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://ieeexplore.ieee.org/document/10230896">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
  
-3. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
+4. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
 <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
 **Transactions on Machine Learning Research 2022**
 

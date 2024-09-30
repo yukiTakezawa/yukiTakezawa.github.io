@@ -105,4 +105,5 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
 - Nov./4-Nov./7, IBIS 2024 (Saitama, Japan)  
 - Nov.-Feb. (TBD), CISPA Helmholtz Center for Information Security (Saarland, Germany)
+- Dec./9-Dec./15, NeurIPS 2024 (Vancouver, Canada)
 - Mar./3-Mar./5 (TBD), <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)

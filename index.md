@@ -31,14 +31,15 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 4. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
-**International Conference on Multimedia Modeling 2023**
+**International Conference on Multimedia Modeling 2023**  
+[<a href="https://github.com/KazutoshiShinoda/slides/blob/master/MMM2023.pdf">poster</a>]
 
-5. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+6. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/FS_TSWB">code</a>]  
 
-6. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+7. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  

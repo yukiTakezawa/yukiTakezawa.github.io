@@ -16,7 +16,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
-<a  href="https://arxiv.org/abs/2405.15010">"Polyak Meets Parameter-free Clipped Gradient Descent"</a>  
+<a  href="https://arxiv.org/abs/2405.15010">"Parameter-free Clipped Gradient Descent Meets Polyak"</a>  
 **Neural Information Processing Systems (NeurIPS) 2024**  
 
 2.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  

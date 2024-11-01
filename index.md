@@ -45,19 +45,23 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  
 
 ### Journal Papers
-1. Iifan Tyou, Tomoya Murata, Takumi Fukami, <u>Yuki Takezawa</u>, Kenta Niwa  
+1. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
+<a href="https://www.mdpi.com/1099-4300/26/11/939">"An Empirical Study of Simplicial Representation Learning with Wasserstein Distance"</a>  
+**Entropy 2024**
+ 
+3. Iifan Tyou, Tomoya Murata, Takumi Fukami, <u>Yuki Takezawa</u>, Kenta Niwa  
 <a href="https://openreview.net/forum?id=8koy8QuTZD">"A Localized Primal-Dual Method for Centralized/Decentralized Federated Learning Robust to Data Heterogeneity"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
 
-2. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
 <a href="https://ieeexplore.ieee.org/abstract/document/10373878">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>  
 **Transactions on Machine Learning Research 2023**
 
-3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+5. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://ieeexplore.ieee.org/document/10230896">"Communication Compression for Decentralized Learning with Operator Splitting Methods"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
  
-4. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
+6. Makoto Yamada, <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Zornitsa Kozareva, Sujith Ravi  
 <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
 **Transactions on Machine Learning Research 2022**
 
@@ -65,18 +69,15 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 1. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2405.14650">PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis</a>, arXiv 2024
 
-2. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
-<a href="https://arxiv.org/abs/2310.10143">"An Empirical Study of Simplicial Representation Learning with Wasserstein Distance"</a>, arXiv 2023
-
-3.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-4.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+3.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023  
 [<a href="https://github.com/yukiTakezawa/necessary_and_sufficient_watermark">code</a>]  
 
-5. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

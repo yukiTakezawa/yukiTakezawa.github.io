@@ -87,7 +87,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, Apr./2021-Mar./2023
 - Research Assistant, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Apr./2021-Mar./2023
 - Research Internship, <a href="http://www.kecl.ntt.co.jp/english/index.html">NTT Comunication Science Laboratories</a>, Aug./2021-Sep./2021
-- Research Internship, <a href="https://weblab.t.u-tokyo.ac.jp/en/">The University of Tokyo, Matsuo Laboratory</a>, 2020
+- Research Internship, The University of Tokyo, Matsuo Laboratory, 2020
 
 ## Honor & Funding
 - <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Doctoral Course Research Fellowships (DC1)</a>, 2023-Present

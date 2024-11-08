@@ -90,7 +90,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Honor & Funding
 - <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Doctoral Course Research Fellowships (DC1)</a>, 2023-Present
-- IEICE TC-IBISML Research Award, 2024
+- IEICE TC-IBISML Research Award, 2023
 - <a href="https://www.ai-gakkai.or.jp/en/about/award/">The Japanese Society for Artificial Intelligence (JSAI) Incentive Award</a>, 2021
 - <a href="https://www.kyoto-u.ac.jp/en/about/honors/university-awards/presidents/about-the-kyoto-university-presidents-award">Kyoto University President's Award</a>, 2019
 

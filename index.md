@@ -51,11 +51,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Entropy 2024**
  
 3. Iifan Tyou, Tomoya Murata, Takumi Fukami, <u>Yuki Takezawa</u>, Kenta Niwa  
-<a href="https://openreview.net/forum?id=8koy8QuTZD">"A Localized Primal-Dual Method for Centralized/Decentralized Federated Learning Robust to Data Heterogeneity"</a>  
+<a href="https://ieeexplore.ieee.org/abstract/document/10373878">"A Localized Primal-Dual Method for Centralized/Decentralized Federated Learning Robust to Data Heterogeneity"</a>  
 **IEEE Transactions on Signal and Information Processing over Networks 2023**
 
 4. <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Ryoma Sato, Makoto Yamada  
-<a href="https://ieeexplore.ieee.org/abstract/document/10373878">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>  
+<a href="https://openreview.net/forum?id=8koy8QuTZD">"Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data"</a>  
 **Transactions on Machine Learning Research 2023**
 
 5. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
@@ -109,7 +109,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <!--
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
 - Nov./4-Nov./7, <a href="https://ibisml.org/ibis2024/">IBIS 2024</a> (Saitama, Japan)
+- Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
 -->
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (Saarland, Germany)
-- Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
-- Mar./3-Mar./5 (TBD), <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
+- Mar./1-Mar./6 (TBD), FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)

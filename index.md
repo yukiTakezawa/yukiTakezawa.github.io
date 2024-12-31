@@ -82,6 +82,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
+- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Nov./2024-Present
 - Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Jul./2024
 - Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, Apr./2022-Present
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, Apr./2021-Mar./2023
@@ -111,5 +112,5 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Nov./4-Nov./7, <a href="https://ibisml.org/ibis2024/">IBIS 2024</a> (Saitama, Japan)
 - Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
 -->
-- Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (Saarland, Germany)
-- Mar./1-Mar./6 (TBD), FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
+- Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
+- Feb./24-Mar./6 (TBD), FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)

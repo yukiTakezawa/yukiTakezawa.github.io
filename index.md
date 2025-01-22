@@ -119,4 +119,4 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 -->
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
 - Feb./24-Mar./6 (TBD), FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
-- Apr./24-Apr.28, ICLR 2025 (Singapore)
+- Apr./24-Apr./28, ICLR 2025 (Singapore)

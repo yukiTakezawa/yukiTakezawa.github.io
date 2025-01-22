@@ -16,11 +16,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Sebastian Stich  
-Scalable Decentralized Learning with Teleportation    
+"Scalable Decentralized Learning with Teleportation"    
 **International Conference on Learning Representations (ICLR) 2025**
 
 2. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
-<a href="https://arxiv.org/abs/2405.14650">PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis</a>  
+<a href="https://arxiv.org/abs/2405.14650">"PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"</a>  
 **International Conference on Learning Representations (ICLR) 2025**
 
 3. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  

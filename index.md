@@ -11,12 +11,12 @@ Research interests: Machine Learning, Optimization, Optimal Transport.
 
 contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
 
-<a href="https://dblp.uni-trier.de/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a> / <a href="https://www.semanticscholar.org/author/Yuki-Takezawa/2059107130">semantic scholar</a> / <a href="https://drive.google.com/file/d/1yvedVea6Sw3sBkuyQS3CCElYp8dDQKL9/view?usp=drive_link">CV</a>
+<a href="https://dblp.org/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a> / <a href="https://www.semanticscholar.org/author/Yuki-Takezawa/2059107130">semantic scholar</a> / <a href="https://drive.google.com/file/d/1yvedVea6Sw3sBkuyQS3CCElYp8dDQKL9/view?usp=drive_link">CV</a>
 
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Sebastian Stich  
-"Scalable Decentralized Learning with Teleportation"    
+<a href="https://openreview.net/forum?id=AvmBgiQxxp">"Scalable Decentralized Learning with Teleportation"</a>    
 **International Conference on Learning Representations (ICLR) 2025**
 
 2. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  

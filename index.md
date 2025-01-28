@@ -16,7 +16,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Sebastian Stich  
-<a href="https://openreview.net/forum?id=AvmBgiQxxp">"Scalable Decentralized Learning with Teleportation"</a>    
+<a href="http://arxiv.org/abs/2501.15259">"Scalable Decentralized Learning with Teleportation"</a>    
 **International Conference on Learning Representations (ICLR) 2025**
 
 2. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  

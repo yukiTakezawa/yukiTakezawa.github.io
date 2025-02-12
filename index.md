@@ -76,8 +76,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ### Preprints
 1. Han Bao, Shinsaku Sakaue, <u>Yuki Takezawa</u>  
-<a href="https://arxiv.org/abs/2502.04889">"Any-stepsize Gradient Descent for Separable Data under Fenchel--Young Losses  
-"</a>, arXiv 2025
+<a href="https://arxiv.org/abs/2502.04889">"Any-stepsize Gradient Descent for Separable Data under Fenchel--Young Losses"</a>, arXiv 2025
 
 2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
@@ -91,7 +90,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
-- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Nov./2024-Present
+- Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Nov./2024-Feb./2025
 - Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Jul./2024
 - Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, Apr./2022-Present
 - Research Assistant, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>, Apr./2021-Mar./2023
@@ -120,7 +119,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
 - Nov./4-Nov./7, <a href="https://ibisml.org/ibis2024/">IBIS 2024</a> (Saitama, Japan)
 - Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
--->
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
-- Feb./24-Mar./6 (TBD), FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
+-->
+- Feb./24-Mar./6, FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
 - Apr./24-Apr./28, ICLR 2025 (Singapore)

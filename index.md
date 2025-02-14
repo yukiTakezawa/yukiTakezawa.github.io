@@ -54,7 +54,12 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  
 
 ### Journal Papers
-1. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
+1.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+<a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>,  
+**Transactions on Machine Learning Research 2025**  
+[<a href="https://github.com/yukiTakezawa/necessary_and_sufficient_watermark">code</a>]  
+
+2. Makoto Yamada, <u>Yuki Takezawa</u>, Guillaume Houry, Kira Michaela Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai  
 <a href="https://www.mdpi.com/1099-4300/26/11/939">"An Empirical Study of Simplicial Representation Learning with Wasserstein Distance"</a>  
 **Entropy 2024**
  
@@ -82,11 +87,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-3.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
-<a href="https://arxiv.org/abs/2310.00833">"Necessary and Sufficient Watermark for Large Language Models"</a>, arXiv 2023  
-[<a href="https://github.com/yukiTakezawa/necessary_and_sufficient_watermark">code</a>]  
-
-4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

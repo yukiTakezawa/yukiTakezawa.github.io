@@ -17,38 +17,39 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Sebastian Stich  
 <a href="http://arxiv.org/abs/2501.15259">"Scalable Decentralized Learning with Teleportation"</a>    
-**International Conference on Learning Representations (ICLR) 2025**
+**International Conference on Learning Representations (ICLR) 2025**  
+[<a href="https://speakerdeck.com/yukitakezawa/scalable-decentralized-learning-with-teleportation-iclr-2025">slide</a>]
 
-2. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
+3. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2405.14650">"PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"</a>  
 **International Conference on Learning Representations (ICLR) 2025**
 
-3. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
 <a  href="https://arxiv.org/abs/2405.15010">"Parameter-free Clipped Gradient Descent Meets Polyak"</a>  
 **Neural Information Processing Systems (NeurIPS) 2024**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2024parameter.pdf">poster</a>]
 
-4.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
+5.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
 <a href="https://openreview.net/forum?id=HNfwD7QOaq">"Large-scale Similarity Search with Optimal Transport"</a>  
 **Empirical Methods in Natural Language Processing (EMNLP) 2023**
 
-5.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+6.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**  
 [<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/BaseGraph">code</a>]  
  
 
-6. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
+7. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**  
 [<a href="https://github.com/KazutoshiShinoda/slides/blob/master/MMM2023.pdf">poster</a>]
 
-7. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+8. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/FS_TSWB">code</a>]  
 
-8. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+9. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  

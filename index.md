@@ -4,7 +4,7 @@ layout: default
 <link href='https://fonts.googleapis.com/css?family=Zen Kurenaido' rel='stylesheet'>
 <img class="profile-picture" src="face.jpg">
 
-I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido'">竹澤祐貴</span>), a 2nd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
+I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido'">竹澤祐貴</span>), a 3rd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>.
 
 Research interests: Machine Learning, Optimization, Optimal Transport.
@@ -122,6 +122,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Nov./4-Nov./7, <a href="https://ibisml.org/ibis2024/">IBIS 2024</a> (Saitama, Japan)
 - Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
--->
 - Feb./24-Mar./6, FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
+-->
 - Apr./24-Apr./28, ICLR 2025 (Singapore)

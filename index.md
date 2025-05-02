@@ -15,11 +15,14 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1. <u>Yuki Takezawa</u>, Sebastian Stich  
+1. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  
+"Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization"  
+**International Conference on Machine Learning (ICML) 2025** 
+
+2. <u>Yuki Takezawa</u>, Sebastian Stich  
 <a href="http://arxiv.org/abs/2501.15259">"Scalable Decentralized Learning with Teleportation"</a>    
 **International Conference on Learning Representations (ICLR) 2025**  
 [<a href="https://speakerdeck.com/yukitakezawa/scalable-decentralized-learning-with-teleportation-iclr-2025">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2025scalable.pdf">poster</a>]
-
 
 3. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2405.14650">"PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"</a>  
@@ -124,5 +127,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Dec./9-Dec./15, <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> (Vancouver, Canada)
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
 - Feb./24-Mar./6, FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
--->
 - Apr./24-Apr./28, ICLR 2025 (Singapore)
+-->
+- Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)

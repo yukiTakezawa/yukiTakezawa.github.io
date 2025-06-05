@@ -131,3 +131,4 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 -->
 - Jun./16-Jun./20, OIST, (Okinawa, Japan)
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
+- Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)

@@ -129,4 +129,5 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Feb./24-Mar./6, FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
 - Apr./24-Apr./28, ICLR 2025 (Singapore)
 -->
+- Jun./16-Jun./20, OIST, (Okinawa, Japan)
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)

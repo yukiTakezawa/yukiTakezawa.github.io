@@ -16,7 +16,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  
-"Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization"  
+<a href="https://arxiv.org/abs/2506.05791">"Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization"</a>  
 **International Conference on Machine Learning (ICML) 2025** 
 
 2. <u>Yuki Takezawa</u>, Sebastian Stich  

@@ -18,6 +18,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 1. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  
 <a href="https://arxiv.org/abs/2506.05791">"Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization"</a>  
 **International Conference on Machine Learning (ICML) 2025** 
+[<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2025exploiting.pdf">poster</a>]
+
 
 2. <u>Yuki Takezawa</u>, Sebastian Stich  
 <a href="http://arxiv.org/abs/2501.15259">"Scalable Decentralized Learning with Teleportation"</a>    

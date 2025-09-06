@@ -87,14 +87,17 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Transactions on Machine Learning Research 2022**
 
 ### Preprints
-1. Han Bao, Shinsaku Sakaue, <u>Yuki Takezawa</u>  
+1. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada    
+<a href="https://arxiv.org/abs/2509.02970">"Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation"</a>, arXiv 2025
+
+2. Han Bao, Shinsaku Sakaue, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2502.04889">"Any-stepsize Gradient Descent for Separable Data under Fenchel--Young Losses"</a>, arXiv 2025
 
-2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+3.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

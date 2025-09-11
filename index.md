@@ -133,7 +133,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Nov./12-Feb./7, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a> (St. Ingbert, Germany)
 - Feb./24-Mar./6, FIMI + <a href="https://omlw2025.mlds.jp/">OIST ML Workshop 2024</a> (Okinawa, Japan)
 - Apr./24-Apr./28, ICLR 2025 (Singapore)
--->
 - Jun./16-Jun./20, OIST, (Okinawa, Japan)
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
 - Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)
+-->
+- Sep. 21-34, YAML 2025, (Atami, Japan)

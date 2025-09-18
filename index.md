@@ -15,47 +15,56 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  
+
+1. Han Bao, Shinsaku Sakaue, <u>Yuki Takezawa</u>  
+<a href="https://arxiv.org/abs/2502.04889">"Any-stepsize Gradient Descent for Separable Data under Fenchel--Young Losses"</a>  
+**Neural Information Processing Systems (NeurIPS) 2025**  
+
+2. Kenta Niwa, <u>Yuki Takezawa</u>, Guoqiang Zhang, W. Bastiaan Kleijn  
+Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficiency  
+**Neural Information Processing Systems (NeurIPS) 2025**  
+
+3. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  
 <a href="https://arxiv.org/abs/2506.05791">"Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization"</a>  
 **International Conference on Machine Learning (ICML) 2025**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2025exploiting.pdf">poster</a>]
 
 
-2. <u>Yuki Takezawa</u>, Sebastian Stich  
+4. <u>Yuki Takezawa</u>, Sebastian Stich  
 <a href="http://arxiv.org/abs/2501.15259">"Scalable Decentralized Learning with Teleportation"</a>    
 **International Conference on Learning Representations (ICLR) 2025**  
 [<a href="https://speakerdeck.com/yukitakezawa/scalable-decentralized-learning-with-teleportation-iclr-2025">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2025scalable.pdf">poster</a>]
 
-3. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
+5. Satoki Ishikawa, Makoto Yamada, Han Bao, <u>Yuki Takezawa</u>  
 <a href="https://arxiv.org/abs/2405.14650">"PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis"</a>  
 **International Conference on Learning Representations (ICLR) 2025**
 
-4. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
+6. <u>Yuki Takezawa</u>, Han Bao, Ryoma Sato, Kenta Niwa, Makoto Yamada  
 <a  href="https://arxiv.org/abs/2405.15010">"Parameter-free Clipped Gradient Descent Meets Polyak"</a>  
 **Neural Information Processing Systems (NeurIPS) 2024**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2024parameter.pdf">poster</a>]
 
-5.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
+7.  Cléa Laouar, <u>Yuki Takezawa</u>, Makoto Yamada  
 <a href="https://openreview.net/forum?id=HNfwD7QOaq">"Large-scale Similarity Search with Optimal Transport"</a>  
 **Empirical Methods in Natural Language Processing (EMNLP) 2023**
 
-6.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
+8.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="http://arxiv.org/abs/2305.11420">"Beyond Exponential Graph: Communication-Efficient Topologies for Decentralized Learning via Finite-time Convergence"</a>  
 **Neural Information Processing Systems (NeurIPS) 2023**  
 [<a href="https://speakerdeck.com/yukitakezawa/beyond-exponential-graph-communication-efficient-topology-for-decentralized-learning-via-finite-time-convergence">slides</a>][<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2023beyond.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/BaseGraph">code</a>]  
  
 
-7. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
+9. Kazutoshi Shinoda, <u>Yuki Takezawa</u>, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo  
 <a href="https://arxiv.org/abs/2110.07031">"Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following" </a>  
 **International Conference on Multimedia Modeling 2023**  
 [<a href="https://github.com/KazutoshiShinoda/slides/blob/master/MMM2023.pdf">poster</a>]
 
-8. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
+10. <u>Yuki Takezawa</u>, Ryoma Sato, Zornitsa Kozareva, Sujith Ravi, Makoto Yamada  
 <a href="https://arxiv.org/abs/2109.03431">"Fixed Support Tree-Sliced Wasserstein Barycenter"</a>  
 **International Conference on Artificial Intelligence and Statistics (AISTATS) 2022**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/posters/takezawa2022fixed.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/FS_TSWB">code</a>]  
 
-9. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
+11. <u>Yuki Takezawa</u>, Ryoma Sato, Makoto Yamada  
 <a href="https://arxiv.org/abs/2101.11520">"Supervised Tree-Wasserstein Distance"</a>  
 **International Conference on Machine Learning (ICML) 2021**  
 [<a href="https://github.com/yukiTakezawa/yukiTakezawa.github.io/blob/gh-pages/SupervisedTreeWassersteinDistance_ICML2021_poster.pdf">poster</a>][<a href="https://github.com/yukiTakezawa/STW">code</a>]  
@@ -90,14 +99,11 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 1. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada    
 <a href="https://arxiv.org/abs/2509.02970">"Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation"</a>, arXiv 2025
 
-2. Han Bao, Shinsaku Sakaue, <u>Yuki Takezawa</u>  
-<a href="https://arxiv.org/abs/2502.04889">"Any-stepsize Gradient Descent for Separable Data under Fenchel--Young Losses"</a>, arXiv 2025
-
-3.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-4. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

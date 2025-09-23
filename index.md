@@ -95,15 +95,17 @@ Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficie
 <a href="https://openreview.net/forum?id=Ig82l87ZVU&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">"Approximating 1-Wasserstein Distance with Trees"</a>  
 **Transactions on Machine Learning Research 2022**
 
-### Preprints
+### Workshop
 1. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada    
-<a href="https://arxiv.org/abs/2509.02970">"Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation"</a>, arXiv 2025
+<a href="https://arxiv.org/abs/2509.02970">"Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation"</a>  
+**OPT 2025**  
 
-2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+### Preprints
+1.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

@@ -101,11 +101,14 @@ Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficie
 **OPT 2025**  
 
 ### Preprints
-1.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+1. Yuki Takezawa, Anastasia Koloskova, Xiaowen Jiang, Sebastian Stich
+<a href="https://arxiv.org/abs/2509.26337">"FedMuon: Federated Learning with Bias-corrected LMO-based Optimization"</a>, arXiv 2025
+
+2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

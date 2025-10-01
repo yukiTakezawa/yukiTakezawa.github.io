@@ -96,12 +96,12 @@ Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficie
 **Transactions on Machine Learning Research 2022**
 
 ### Workshop
-1. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada    
+1. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada   
 <a href="https://arxiv.org/abs/2509.02970">"Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation"</a>  
 **OPT 2025**  
 
 ### Preprints
-1. Yuki Takezawa, Anastasia Koloskova, Xiaowen Jiang, Sebastian Stich
+1. Yuki Takezawa, Anastasia Koloskova, Xiaowen Jiang, Sebastian Stich  
 <a href="https://arxiv.org/abs/2509.26337">"FedMuon: Federated Learning with Bias-corrected LMO-based Optimization"</a>, arXiv 2025
 
 2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  

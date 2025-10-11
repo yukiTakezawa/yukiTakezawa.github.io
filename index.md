@@ -148,7 +148,9 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
 - Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)
 
-<!-- Google tag (gtag.js) -->
+
+- Sep. 21-23, YAML 2025, (Atami, Japan)
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X38N05P7L5"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -157,5 +159,3 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
   gtag('config', 'G-X38N05P7L5');
 </script>
--->
-- Sep. 21-23, YAML 2025, (Atami, Japan)

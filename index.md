@@ -4,6 +4,8 @@ layout: default
 <link href='https://fonts.googleapis.com/css?family=Zen Kurenaido' rel='stylesheet'>
 <img class="profile-picture" src="face.jpg">
 
+
+
 I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido'">竹澤祐貴</span>), a 3rd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
 I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>.
 
@@ -137,6 +139,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
+- Sep. 21-23, YAML 2025, (Atami, Japan)
+
 <!--
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
 - Nov./4-Nov./7, <a href="https://ibisml.org/ibis2024/">IBIS 2024</a> (Saitama, Japan)
@@ -147,15 +151,4 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Jun./16-Jun./20, OIST, (Okinawa, Japan)
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
 - Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)
-
-
-- Sep. 21-23, YAML 2025, (Atami, Japan)
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X38N05P7L5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-X38N05P7L5');
-</script>
+-->

@@ -73,7 +73,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ### Journal Papers
 1. Yuan Gao, <u>Yuki Takezawa</u>, Sebastian Stich  
-"A Bias Correction Mechanism for Distributed Asynchronous Optimization",  
+<a href="https://openreview.net/forum?id=8doMbaah0s">"A Bias Correction Mechanism for Distributed Asynchronous Optimization"</a>,  
 **Transactions on Machine Learning Research 2025**  
 
 2.  <u>Yuki Takezawa</u>, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada  
@@ -143,7 +143,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Sep. 21-23, YAML 2025, (Atami, Japan)
+- Nov. 17- Dec. 5, MBZUAI, (Abu Dhabi, UAE)
 
 <!--
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
@@ -155,4 +155,6 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Jun./16-Jun./20, OIST, (Okinawa, Japan)
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
 - Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)
+- Sep. 21-23, YAML 2025, (Atami, Japan)
 -->
+

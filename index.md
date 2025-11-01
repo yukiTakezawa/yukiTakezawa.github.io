@@ -143,7 +143,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Nov. 17- Dec. 5, MBZUAI, (Abu Dhabi, UAE)
+- Nov.11-Nov.14, IBIS, (Okinawa, Japan)
+- Nov.17-Dec.5, MBZUAI, (Abu Dhabi, UAE)
 
 <!--
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  

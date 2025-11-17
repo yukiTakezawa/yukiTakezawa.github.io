@@ -127,6 +127,8 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Research Internship, The University of Tokyo, Matsuo Laboratory, 2020
 
 ## Honor & Funding
+- IBIS Excellent Presentation Award, 2025
+- IBIS Excellent Student Presentation Award Finalist, 2025
 - <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Doctoral Course Research Fellowships (DC1)</a>, 2023-Present
 - IEICE TC-IBISML Research Award, 2023
 - <a href="https://www.ai-gakkai.or.jp/en/about/award/">The Japanese Society for Artificial Intelligence (JSAI) Incentive Award</a>, 2021

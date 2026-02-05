@@ -17,7 +17,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 
 ## Publications
 ### Conference Papers
-1. Yuki Takezawa, Anastasia Koloskova, Xiaowen Jiang, Sebastian Stich  
+1. <u>Yuki Takezawa</u>, Anastasia Koloskova, Xiaowen Jiang, Sebastian Stich  
 <a href="https://arxiv.org/abs/2509.26337">"FedMuon: Federated Learning with Bias-corrected LMO-based Optimization"</a>,  
 **International Conference on Learning Representations (ICLR) 2026** 
 

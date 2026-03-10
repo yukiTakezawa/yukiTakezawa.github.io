@@ -119,6 +119,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences
+- Research Internship, MBZUAI, Nov./2025-Dec./2025
 - Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Nov./2024-Feb./2025
 - Research Internship, <a href="https://www.sstich.ch/">CISPA Helmholtz Center for Information Security</a>, Apr./2024-Jul./2024
 - Visiting Research Student, <a href="https://oist.mlds.jp/">Okinawa Institute of Science and Technology</a>, Apr./2022-Present
@@ -146,8 +147,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.chopin-asia.com/english/">Chopin International Piano Competition in Asia 2016</a>, bronze
 
 ## Upcoming Trip
-- Nov.11-Nov.14, IBIS, (Okinawa, Japan)
-- Nov.17-Dec.5, MBZUAI, (Abu Dhabi, UAE)
+- Apr./23 - Apr./25, ICLR, (Rio de Janeiro, Brazil)
 
 <!--
 - Sept./21-Sept./23, <a href="https://sites.google.com/view/yaml2024">YAML 2024</a> (Hamamatsu, Japan)  
@@ -160,5 +160,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - Jul./13-Jul./19, ICML 2025 (Vancouver, Canada)
 - Aug./28-Aug./30, The Institute of Statistical Mathematics, (Tokyo, Japan)
 - Sep. 21-23, YAML 2025, (Atami, Japan)
+- Nov.11-Nov.14, IBIS, (Okinawa, Japan)
+- Nov.17-Dec.5, MBZUAI, (Abu Dhabi, UAE)
 -->
 

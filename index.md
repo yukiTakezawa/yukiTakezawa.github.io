@@ -26,7 +26,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 **Neural Information Processing Systems (NeurIPS) 2025**  
 
 3. Kenta Niwa, <u>Yuki Takezawa</u>, Guoqiang Zhang, W. Bastiaan Kleijn  
-"Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficiency"  
+<a href="https://openreview.net/forum?id=8UMlKkCrNj">"Revisiting 1-peer Exponential Graph for Enhancing Decentralized Learning Efficiency"</a>  
 **Neural Information Processing Systems (NeurIPS) 2025**  
 
 4. <u>Yuki Takezawa</u>, Xiaowen Jiang, Anton Rodomanov, Sebastian Stich  

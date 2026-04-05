@@ -6,8 +6,8 @@ layout: default
 
 
 
-I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido'">竹澤祐貴</span>), a 3rd year Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
-I'm also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>.
+I'm Yuki Takezawa (<span style="font-family: 'Zen Kurenaido'">竹澤祐貴</span>), a researcher at Toyota Motor Corporation.  Previously, I was a Ph.D. student at <a href="http://www.ml.ist.i.kyoto-u.ac.jp/en/">Kashima Laboratory</a>, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>.
+I was also working as a visiting research student at <a href="https://oist.mlds.jp/">Yamada Unit</a>, <a href="https://www.oist.jp/">Okinawa Institute of Science and Technology</a>.
 
 Research interests: Machine Learning, Optimization, Optimal Transport.
 
@@ -137,7 +137,7 @@ contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp
 - <a href="https://www.kyoto-u.ac.jp/en/about/honors/university-awards/presidents/about-the-kyoto-university-presidents-award">Kyoto University President's Award</a>, 2019
 
 ## Education
-- Kyoto University (Ph.D. course), Graduate School of Informatics, Apr./2023-Present
+- Kyoto University (Ph.D. course), Graduate School of Informatics, Apr./2023-Mar./2026
 - Kyoto University (Master course), Graduate School of Informatics, Apr./2021-Mar./2023
 - Kyoto University (Bachelor course), Undergraduate School of Informatics and Mathematical Science, Apr./2017-Mar./2021
 

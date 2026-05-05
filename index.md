@@ -11,7 +11,10 @@ I was also working as a visiting research student at <a href="https://oist.mlds.
 
 Research interests: Machine Learning, Optimization, Optimal Transport.
 
-contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp 
+contact: takezawa.yuki.42s at kyoto-u.jp
+
+**The email address below has expired due to graduation. Please send your message to the above email address.**  
+~~contact: yuki-takezawa at ml.ist.i.kyoto-u.ac.jp~~
 
 <a href="https://dblp.org/pid/284/1294.html">dblp</a> / <a href="https://scholar.google.com/citations?user=eaKQb8IAAAAJ&hl=en">google scholar</a> / <a href="https://www.semanticscholar.org/author/Yuki-Takezawa/2059107130">semantic scholar</a> / <a href="https://drive.google.com/file/d/1yvedVea6Sw3sBkuyQS3CCElYp8dDQKL9/view?usp=drive_link">CV</a>
 

@@ -21,7 +21,7 @@ contact: takezawa.yuki.42s at kyoto-u.jp
 ## Publications
 ### Conference Papers
 1. <u>Yuki Takezawa</u>, Anastasia Koloskova, Sebastian Stich  
-"Improved Convergence Analysis of Topology Dependence in Decentralized SGD",  
+<a href="https://arxiv.org/abs/2606.09154">"Improved Convergence Analysis of Topology Dependence in Decentralized SGD"</a>,  
 **International Conference on Machine Learning (ICML) 2026** 
 
 2. Kaoru Otsuka, <u>Yuki Takezawa</u>, Makoto Yamada  

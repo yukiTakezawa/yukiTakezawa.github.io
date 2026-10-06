@@ -122,12 +122,14 @@ contact: takezawa.yuki.42s at kyoto-u.jp
 **OPT 2025**  
 
 ### Preprints
+1. <u>Yuki Takezawa</u>, Eduard Gorbunov  
+<a href="https://arxiv.org/abs/2310.08920">"Last-Iterate Convergence Rate of Normalized Gradient Descent under Hölder Smoothness"</a>, arXiv 2026  
 
-1.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
+2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
 [<a href="https://easymarkdemo.github.io/">demo</a>]
 
-2. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
+3. <u>Yuki Takezawa</u>, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2205.11979">"Theoretical Analysis of Primal-Dual Algorithm for Non-Convex Stochastic Decentralized Optimization"</a>, arXiv 2022
 
 ## Research Experiences

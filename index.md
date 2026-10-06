@@ -123,7 +123,7 @@ contact: takezawa.yuki.42s at kyoto-u.jp
 
 ### Preprints
 1. <u>Yuki Takezawa</u>, Eduard Gorbunov  
-<a href="https://arxiv.org/abs/2310.08920">"Last-Iterate Convergence Rate of Normalized Gradient Descent under Hölder Smoothness"</a>, arXiv 2026  
+<a href="https://arxiv.org/abs/2610.06070">"Last-Iterate Convergence Rate of Normalized Gradient Descent under Hölder Smoothness"</a>, arXiv 2026  
 
 2.  Ryoma Sato, <u>Yuki Takezawa</u>, Han Bao, Kenta Niwa, Makoto Yamada  
 <a href="https://arxiv.org/abs/2310.08920">"Embarrassingly Simple Text Watermarks"</a>, arXiv 2023  
